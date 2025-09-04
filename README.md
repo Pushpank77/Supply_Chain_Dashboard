@@ -1,4 +1,5 @@
 # Supply Chain Dashboard – Excel
+Excel link:https://1drv.ms/x/s!AoMO5Q7Nxc7PdJbSopnAyzPR7FU?e=pYr1He
 
 ## Project Overview
 This project is an **interactive Excel dashboard** designed to monitor and analyze key supply chain metrics. It visualizes critical data such as **revenue, stock levels, shipping costs, and supplier performance**. The dashboard is fully interactive using PivotTables, Charts, and Slicers to provide insights for decision-making and performance optimization.
